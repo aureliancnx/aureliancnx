@@ -13,7 +13,7 @@
 ## Favorite languages
 
 - python: django projects (web, APIs), making AI, simulation, maths
-- java: addons
+- java: for addons, not its crappy syntax
 - coq: some math things
 
 ## what I like
