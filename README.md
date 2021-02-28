@@ -13,13 +13,4 @@
 ## Favorite languages
 
 - python: django projects (web, APIs), making AI, simulation, maths
-- java: for addons, not its crappy syntax
-- coq: some math things
-
-## what I like
-
-- spilling my 12th daily coffee on my keyboard
-- being stalked (lol nope)
-- workout
-- eCommerce business
-- stock trading
+- C
