@@ -14,3 +14,7 @@
 
 - python: django projects (web, APIs), making AI, simulation, maths
 - C
+
+# Devtime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
