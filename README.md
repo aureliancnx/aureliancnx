@@ -16,4 +16,4 @@
 - C
 
 # Devtime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aureliancnx)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aureliancnx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
