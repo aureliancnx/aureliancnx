@@ -14,6 +14,3 @@
 
 - python: django projects (web, APIs), making AI, simulation, maths
 - C
-
-# Devtime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aureliancnx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
