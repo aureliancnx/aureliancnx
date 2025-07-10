@@ -13,16 +13,16 @@ I'm looking for a full-time, permanent job, ideally remote, where I can work on 
 
 ## 💼 Experience
 
-### Software Engineer at Paladium (2021–2025)
+### Software Engineer @ Paladium (2021–2025)
 - Designed and maintained backend systems supporting over 3,000 concurrent players.
 - Built new game features using Java.
 - Automated deployments of containerized servers, improving resource utilization by up to 80%.
 
-### Back-end Developer at Vite Ma Dose (2021) [Volunteer]
-- Worked with a team of over 7 developers on open-source projects to deliver new booking features.
-
 ### Teaching Assistant @ EPITECH (2022–2023)
 - Mentored over 30 students on C/C++ fundamentals and helped debug major projects.
+
+### Back-end Developer @ Vite Ma Dose (2021) [Volunteer]
+- Worked with a team of over 7 developers on open-source projects to deliver new booking features.
 
 ### Game Developer @ BadBlock (2016–2020)
 - Created 4 custom game modes and APIs for over 200,000 players.
