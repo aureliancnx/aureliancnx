@@ -1,14 +1,10 @@
 👋 Hey, I'm Aurélien, a software engineer who loves creating strong and efficient back-end systems that really help users. Whether it's about scaling up infrastructure for thousands of users or working on tools that make a public impact, I enjoy writing code that matters.
 
-## 🎯 What I'm looking for
-
-I'm looking for a full-time, permanent job, ideally remote, where I can work on projects that solve real-world problems. I'm especially interested in teams that build clean, scalable, and impactful systems.
-
 ## 🚀 What I do
 
 - **Backend** - Java, Python, Go, C, C++
 - **Scalable infra** - Docker, Redis, RabbitMQ, Kafka
-- **Observability and DevOps** - GitHub Actions, TeamCity, logs/metrics/traces, CI/CD pipelines
+- **Observability and DevOps** - GitHub Actions, TeamCity, logs/metrics/traces, CI/CD pipelines, Kubernetes
 - **Product collaboration** - Working closely with designers, QA, and users to ensure rapid and iterative delivery
 
 ## 💼 Experience
